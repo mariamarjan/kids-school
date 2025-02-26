@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+.quicksand-font {
+font-family: "Quicksand", serif;
+font-optical-sizing: auto;
+font-weight: 500;
+font-style: normal;
+}
+/* sheared style */
+.display-flex{
+  display: flex;
+}
+.col-1{
+  color:#FEA301 ;
+}
+.col-2{
+  color: #01ACFD;
+}
+.col-3{
+  color:#05D4DF ;
+}
+.col-4{
+   color:#5D58EF ;
+}
+/* navber design */
+.head{
+  margin-top: 30px;
+}
+.navlogo {
+  max-width: 1440px;
+justify-content: space-between;
+margin-left: 30px;
+}
+.nav-item{
+  list-style: none;
+  margin-right: 50px;
+  margin-top: 20px;
+  
+   }
+.nav-link{
+  text-decoration: none;
+  font-weight: 500;
+  
+  }
+
+.btn{
+  width:167px ;
+  height: 52px;
+  background-color: rgba(254, 163, 1, 1);
+  border: none;
+  border-radius: 12px;
+  color: white;
+}
+.banner{
+  margin-right: 50px;
+  gap: 500px;
+}
+
+.banner-para{
+  max-width: 490px;
+   margin-left: 30px;
+   text-align: center;
+}
+.banner-title{
+  max-width: 500px;
+  text-align: center;
+   font-weight: 700;
+   font-size:3rem;
+   
+}
+.banner-cont{
+  justify-content: center;
+  text-align: center;
+  margin-top:200px ;
+  
+}
+.button{
+  width: 196px;
+  height: 50px;
+  color: white;
+  background-color: black;
+  border: none;
+  border-radius: 12px;
+  
+}
